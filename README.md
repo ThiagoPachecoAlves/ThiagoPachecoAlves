@@ -28,6 +28,13 @@ Meu nome é Thiago Pacheco Alves, tenho 22 anos e moro em Maringá-PR, atualment
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/thiago-pacheco-alves-7228383b9/" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---

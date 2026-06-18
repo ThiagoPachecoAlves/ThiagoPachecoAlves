@@ -1,4 +1,4 @@
-# 🧠⚛️ Thiago Pacheco Alves
+# 🧠 ⚛️ Thiago Pacheco Alves
 
 **`Estudante de Engenharia de Software`**
 
